@@ -3,10 +3,10 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'ibcgos-frontend-mezghich'
+        IMAGE_NAME = 'ibcgos-frontend-alexandre'
         IMAGE_TAG = '1.0'
-        CONTAINER_NAME = 'ibcgos-container-mezghich'
-        HOST_PORT = '8059'
+        CONTAINER_NAME = 'ibcgos-container-alexandre'
+        HOST_PORT = '8020'
         CONTAINER_PORT = '80'
     }
 
