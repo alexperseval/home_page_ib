@@ -6,7 +6,7 @@ pipeline {
         IMAGE_NAME = 'ibcgos-frontend-alexandre'
         IMAGE_TAG = '1.0'
         CONTAINER_NAME = 'ibcgos-container-alexandre'
-        HOST_PORT = '8020'
+        HOST_PORT = '8061'
         CONTAINER_PORT = '80'
     }
 
